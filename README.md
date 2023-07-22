@@ -2,8 +2,14 @@
 Escriba 4 funciones principales, según su opinión sobre el sitio, póngalas por orden de importancia
 
  Realizar transferencia de dinero en mas de 190 paises 
+
+ 
  Crear un grafico de la divisa que desees 
+
+ 
  Crear Alertas de tasa 
+
+ 
 
  Funciones que puede ofrecer el QA en cada etapa del ciclo de vida del software 
  1.Recopilacion y analisis de requerimientos : obtener informacion necesaria del cliente , sistematizacion de requisitos, construir relaciones, documentacion.
