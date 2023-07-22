@@ -6,6 +6,9 @@ Escriba 4 funciones principales, según su opinión sobre el sitio, póngalas po
  
  Crear un grafico de la divisa que desees 
 
+
+ tipo de cambio actualizado de cada pais 
+
  
  Crear Alertas de tasa 
 
