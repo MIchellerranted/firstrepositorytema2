@@ -1,16 +1,21 @@
 # firstrepositorytema2
 Escriba 4 funciones principales, según su opinión sobre el sitio, póngalas por orden de importancia
 
- Realizar transferencia de dinero en mas de 190 paises 
+
+1.Convertir monedas 
+
+2.Realizar transferencia de dinero en mas de 190 paises.
+
+
+3.Crear un grafico de la divisa que desees.
+
+
+4.tipo de cambio actualizado de cada pais 
 
  
- Crear un grafico de la divisa que desees 
 
 
- tipo de cambio actualizado de cada pais 
 
- 
- Crear Alertas de tasa 
 
  
 
